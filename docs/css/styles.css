@@ -1,0 +1,17 @@
+.cat img {
+  width: 44px;
+  margin: auto;
+  animation-name: rotate;
+  animation-duration: 22s;
+  animation-delay: 1s;
+}
+
+@keyframe rotate {
+  0% { transform: rotate(0turn); }
+  100% { transform: rotate(8turn); }
+}
+
+@-webkit-keyframes rotate {
+  0% { transform: rotate(0turn); }
+  100% { transform: rotate(8turn); }
+}
