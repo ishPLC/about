@@ -9,3 +9,4 @@
 # Managin PLC via Ethernet Connection
 # Get Data from PLC
 # GIF for web
+# Simulators for PC
