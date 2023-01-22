@@ -1,5 +1,5 @@
 # My Projects
-# C++
+# C/C++
 # UART_HMI_IP
 # Arduino PLC
 # UART Terminal
