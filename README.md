@@ -1,11 +1,7 @@
-# My Projects, C/C++:
-# UART_HMI_IP
-# Arduino PLC
-# UART Terminal
-# RS232
-# IP Server socket
-# IP Client socket
-# Managin PLC via Ethernet Connection
-# Get Data from PLC
-# GIF for web
-# Simulators for PC
+# My Projects, C/C++: # Managin PLC via Ethernet Connection, Simulators for PC,
+# UART_HMI_IP, # UART Terminal via RS232, # IP Server socket,IP Client socket
+# 
+
+
+
+
