@@ -3,4 +3,4 @@
 # new 2025: Since 2025 I have moved to a new plane of my works: Design using AI and other Modern technologies
 # *Due to health reasons, I was forced to leave my job as a radio electronics engineer.
 # And I am a graduate of the Orange Academy, Czech Republic 2025.
-# so, ishplc© is I. Shaturnyi© my brand name since 2006. ishplc© all rights reserved.
+# So, ishplc©, I. Shaturnyi© my brand name since 2006, all rights reserved.
