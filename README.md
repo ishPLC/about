@@ -1,5 +1,4 @@
-# My Projects
-# C/C++
+# My Projects, C/C++:
 # UART_HMI_IP
 # Arduino PLC
 # UART Terminal
